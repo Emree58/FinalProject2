@@ -38,5 +38,4 @@ namespace DataAccess.Concrete.EntityFramework
     }
 }
 
-//Mola: 01:05:35
-//https://www.youtube.com/watch?v=ow-EHetuNAU&list=PLqG356ExoxZVN7rC0KmMo0lvECK97VRZg&index=8
+
