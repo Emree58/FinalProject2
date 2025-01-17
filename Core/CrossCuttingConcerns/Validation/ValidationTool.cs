@@ -21,3 +21,5 @@ namespace Core.CrossCuttingConcerns.Validation
         }
     }
 }
+
+//48:00 biraz geri sarabilirsin?
